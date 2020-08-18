@@ -1,5 +1,8 @@
 # SYB网创常用网址导航
 
+## 模拟店铺
+trshop.busionline.com
+
 ## 工具类
 ### 图片压缩 https://tinypng.com/
 ### 颜色转换 https://www.sioe.cn/yingyong/yanse-rgb-16/
