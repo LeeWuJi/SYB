@@ -1,7 +1,6 @@
 # SYB网创常用网址导航
 
-## 模拟店铺
-trshop.busionline.com
+## 模拟店铺 https://trshop.busionline.com
 
 ## 工具类
 ### 图片压缩 https://tinypng.com/
